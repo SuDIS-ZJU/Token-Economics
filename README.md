@@ -70,7 +70,6 @@ We organize the literature using the same logic as the survey:
 - [Token Economics of Intelligent Agent Ecosystems](#-token-economics-of-intelligent-agent-ecosystems)
 - [A Security Perspective on Token Economics](#security-perspective)
 - [Trends and Opportunities](#-trends-and-opportunities)
-<!-- - [Contributing](#-contributing) -->
 - [Citation](#-citation)
 - [Star History](#-star-history)
 
@@ -192,7 +191,7 @@ We organize the literature using the same logic as the survey:
 | **Cognitive Architectures for Language Agents** | Sumers, Theodore R. et al. | Transactions on Machine Learning Research | 2024 | [Paper](https://openreview.net/forum?id=1i6ZCvflQJ) |
 | **Voyager: An Open-Ended Embodied Agent with Large Language Models** | Wang et al. | Advances in Neural Information Processing Systems | 2023 | [Paper](https://arxiv.org/abs/2305.16291) |
 | **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** | Yang et al. | Advances in Neural Information Processing Systems | 2024 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5a7c947568c1b1328ccc5230172e1e7c-Abstract-Conference.html) |
-| **Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime** | He et al. | Preprints |  | [Paper](https://www.preprints.org/frontend/manuscript/567757f184a1af99de64c01b54a2d366/download_pub) |
+| **Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime** | He et al. | Preprints | 2026 | [Paper](https://www.preprints.org/frontend/manuscript/567757f184a1af99de64c01b54a2d366/download_pub) |
 
 <h2 id="multi-agent-token">🕸️ Token Economics in Multi-Agent Systems</h2>
 <p align="center">
@@ -211,7 +210,7 @@ We organize the literature using the same logic as the survey:
 | **S²-MAD: Breaking the Token Barrier to Enhance Multi-AgentDebate Efficiency** | Zeng et al. | Proceedings of the Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies | 2025 | [Paper](https://aclanthology.org/2025.naacl-long.475/) |
 | **Cross-Modal Memory Compression for Efficient Multi-Agent Debate** | Jing Wu et al. | arXiv preprint arXiv:2602.00454 | 2026 | [Paper](https://arxiv.org/abs/2602.00454) |
 | **MasRouter: Learning to Route LLMs for Multi-Agent Systems** | Yue et al. | Proceedings of the Annual Meeting of the Association for Computational Linguistics | 2025 | [Paper](https://aclanthology.org/2025.acl-long.757/) |
-| **Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies** | Zhou et al. | The Fourteenth International Conference on Learning Representations | 2026 | [Paper](https://arxiv.org/abs/2502.02533) |
+| **Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies** | Zhou et al. | International Conference on Learning Representations | 2026 | [Paper](https://arxiv.org/abs/2502.02533) |
 | **Controlling Performance and Budget of a Centralized Multi-agent LLM System with Reinforcement Learning** | Jin et al. | arXiv preprint arXiv:2511.02755 | 2025 | [Paper](https://arxiv.org/abs/2511.02755) |
 
 ### Agent Communication and Interaction Optimization
@@ -221,7 +220,7 @@ We organize the literature using the same logic as the survey:
 | **Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System** | Chen et al. | Findings of the Association for Computational Linguistics | 2025 | [Paper](https://aclanthology.org/2025.findings-acl.601/) |
 | **CodeAgents: A Token-Efficient Framework for Codified Multi-Agent Reasoning in LLMs** | Yang et al. | arXiv preprint arXiv:2507.03254 | 2025 | [Paper](https://arxiv.org/abs/2507.03254) |
 | **BudgetMLAgent: A Cost-Effective LLM Multi-Agent system for Automating Machine Learning Tasks** | Gandhi et al. | Proceedings of the International Conference on AI-ML | 2024 | [Paper](https://dl.acm.org/doi/full/10.1145/3703412.3703416) |
-| **Stop Wasting Your Tokens: Towards Efficient Runtime Multi-Agent Systems** | Lin et al. | The Fourteenth International Conference on Learning Representations | 2026 | [Paper](https://arxiv.org/abs/2510.26585) |
+| **Stop Wasting Your Tokens: Towards Efficient Runtime Multi-Agent Systems** | Lin et al. | International Conference on Learning Representations | 2026 | [Paper](https://arxiv.org/abs/2510.26585) |
 
 ### Computation Efficiency
 
@@ -246,7 +245,7 @@ We organize the literature using the same logic as the survey:
 | **EvoCF: Multi-Agent Collaboration via Agentic Memory-Driven Evolutionary Counterfactual Planning** | Chi et al. | Workshop on Multi-Agent Learning and Its Opportunities in the Era of Generative AI | 2026 | [Paper](https://openreview.net/forum?id=zGKkewtb2w) |
 | **RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory** | Liu et al. | arXiv preprint arXiv:2508.04903 | 2025 | [Paper](https://arxiv.org/abs/2508.04903) |
 | **G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems** | Zhang et al. | Advances in Neural Information Processing Systems | 2025 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/136a45cd9b841bf785625709a19c6508-Abstract-Conference.html) |
-| **AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems** | Yang et al. | The Thirty-ninth Annual Conference on Neural Information Processing Systems | 2026 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/9a379c1b05793d1c42dc832269834515-Abstract-Conference.html) |
+| **AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems** | Yang et al. | Advances in Neural Information Processing Systems | 2025 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/9a379c1b05793d1c42dc832269834515-Abstract-Conference.html) |
 
 ## 🌐 Token Economics of Intelligent Agent Ecosystems
 <p align="center">
@@ -262,8 +261,8 @@ We organize the literature using the same logic as the survey:
 | **Priority Pricing** | Marchand | Management Science | 1974 | [Paper](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.20.7.1131) |
 | **The Theory and Measurement of Private and Social Cost of Highway Congestion** | Walters | Econometrica | 1961 | [Paper](https://www.jstor.org/stable/1911814) |
 | **The Economic Implications of Learning by Doing** | Arrow | The Review of Economic Studies | 1962 | [Paper](https://academic.oup.com/restud/article-abstract/29/3/155/1539235) |
-| **Collective Choice and Social Welfare** | Sen |  | 1970 | [Paper](https://www.sciencedirect.com/book/monograph/9780444851277/collective-choice-and-social-welfare) |
-| **An evolutionary theory of economic change** | Nelson and Winter |  | 1985 | [Paper](https://www.hup.harvard.edu/books/9780674272286) |
+| **Collective Choice and Social Welfare** | Sen | Holden Day | 1970 | [Paper](https://www.sciencedirect.com/book/monograph/9780444851277/collective-choice-and-social-welfare) |
+| **An evolutionary theory of economic change** | Nelson and Winter | Harvard University Press | 1985 | [Paper](https://www.hup.harvard.edu/books/9780674272286) |
 
 ### Producer-Consumer Interaction: Pricing and Congestion
 
@@ -304,7 +303,7 @@ We organize the literature using the same logic as the survey:
 
 | Paper | Authors | Venue | Year | Links |
 |:--|:--|:--:|:--:|:--:|
-| **The Coal Question: An Inquiry Concerning the Progress of the Nation, and the Probable Exhaustion of Our Coal-Mines** | Jevons |  | 1865 | - |
+| **The Coal Question: An Inquiry Concerning the Progress of the Nation, and the Probable Exhaustion of Our Coal-Mines** | Jevons | Macmillan and Company | 1865 | - |
 | **Splitwise: Efficient Generative LLM Inference Using Phase Splitting** | Patel et al. | Proceedings of the ACM/IEEE | 2024 | [Paper](https://ieeexplore.ieee.org/abstract/document/10609649) |
 | **DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving** | Zhong et al. | Proceedings of the USENIX | 2024 | [Paper](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) |
 | **Mooncake: Trading More Storage for Less Computation - A KVCache-centric Architecture for Serving LLM Chatbot** | Qin et al. | Proceedings of the USENIX | 2025 | [Paper](https://www.usenix.org/conference/fast25/presentation/qin) |
@@ -340,7 +339,7 @@ We organize the literature using the same logic as the survey:
 
 | Paper | Authors | Venue | Year | Links |
 |:--|:--|:--:|:--:|:--:|
-| **Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime** | He et al. | Preprints |  | [Paper](https://www.preprints.org/frontend/manuscript/567757f184a1af99de64c01b54a2d366/download_pub) |
+| **Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime** | He et al. | Preprints | 2026 | [Paper](https://www.preprints.org/frontend/manuscript/567757f184a1af99de64c01b54a2d366/download_pub) |
 | **Dynamic Early Exit in Reasoning Models** | Yang et al. | International Conference on Learning Representations | 2026 | [Paper](https://arxiv.org/abs/2504.15895) |
 | **FlashThink: An Early Exit Method For Efficient Reasoning** | Jiang et al. | arXiv preprint arXiv:2505.13949 | 2025 | [Paper](https://arxiv.org/abs/2505.13949) |
 | **Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity** | Jeong et al. | Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies | 2024 | [Paper](https://aclanthology.org/2024.naacl-long.389/) |
@@ -349,7 +348,7 @@ We organize the literature using the same logic as the survey:
 | **Generative Agents: Interactive Simulacra of Human Behavior** | Park et al. | Proceedings of the Annual ACM Symposium on User Interface Software and Technology | 2023 | [Paper](https://dl.acm.org/doi/abs/10.1145/3586183.3606763) |
 | **Reflexion: language agents with verbal reinforcement learning** | Shinn et al. | Advances in Neural Information Processing Systems | 2023 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract-Conference.html) |
 | **Voyager: An Open-Ended Embodied Agent with Large Language Models** | Wang et al. | Advances in Neural Information Processing Systems | 2023 | [Paper](https://arxiv.org/abs/2305.16291) |
-| **A-mem: Agentic memory for llm agents** | Xu et al. | Advances in Neural Information Processing Systems | 2026 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/19909c36f51abc4856b4560aff3d36d6-Abstract-Conference.html) |
+| **A-mem: Agentic memory for llm agents** | Xu et al. | Advances in Neural Information Processing Systems | 2025 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/19909c36f51abc4856b4560aff3d36d6-Abstract-Conference.html) |
 | **Training Large Language Models to Reason in a Continuous Latent Space** | Hao et al. | Second Conference on Language Modeling | 2025 | [Paper](https://arxiv.org/abs/2412.06769) |
 | **Latent Reasoning with Supervised Thinking States** | Amos et al. | arXiv preprint arXiv:2602.08332 | 2026 | [Paper](https://arxiv.org/abs/2602.08332) |
 | **Q-KVComm: Efficient Multi-Agent Communication via Adaptive KV Cache Compression** | Kriuk and Ng | arXiv preprint arXiv:2512.17914 | 2025 | [Paper]() |
