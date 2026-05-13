@@ -389,11 +389,14 @@ We welcome pull requests, issue reports, and suggestions for missing papers or i
 If you find this repository useful, please cite the survey manuscript once the public bibliographic entry is available. A placeholder is shown below:
 
 ```bibtex
-@misc{token_economics_llm_agents_2026,
-  title  = {Token Economics for LLM Agents: A Dual-View Study from Computing and Economics},
-  author = {Chen et al.},
-  year   = {2026},
-  note   = {Living literature repository companion}
+@misc{chen2026tokeneconomicsllmagents,
+      title={Token Economics for LLM Agents: A Dual-View Study from Computing and Economics}, 
+      author={Yuxi Chen and Junming Chen and Chenyu He and Yiwei Li and Yicheng Ji and Yifan Wu and Dingyu Yang and Lansong Diao and Lidan Shou and Hongliang Zhang and Huan Li and Gang Chen},
+      year={2026},
+      eprint={2605.09104},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2605.09104}, 
 }
 ```
 
